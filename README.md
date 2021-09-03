@@ -13,3 +13,6 @@ Template Repository for a React with TypeScript project. This repository contain
 1. `yarn build`
 
 ## Tech used
+
+- TypeScript
+- React JS
